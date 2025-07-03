@@ -4,6 +4,11 @@
 
 This project focuses on analyzing trending YouTube videos from India using Power BI. It explores video popularity, category performance, viewer engagement, and trending duration. The analysis is visualized through an interactive dashboard to deliver actionable insights and data storytelling.
 
+## 📌 Important links
+
+Dataset: https://drive.google.com/file/d/17giV9bhRLErXP402Pf3Yxj1F-_CxTeNk/view?usp=sharing
+Power BI Dashboard file: https://drive.google.com/file/d/1AgMVrMy6O4zA2EQ-9t8KS_2L814alLLU/view?usp=sharing
+
 ## 🛠️ Tools Used
 
 - Power BI  
